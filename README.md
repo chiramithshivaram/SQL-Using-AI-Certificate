@@ -8,4 +8,4 @@
  -  Automated data-related tasks & workflows with AI
  - Prepared for roles like Data Analyst & Database Administrator.
 
-2. Screenshot[Certificate]{}
+2. Screenshot[Certificate]{[https://github.com/chiramithshivaram/SQL-Using-AI-Certificate/blob/main/SQL%20Certificate.png](https://github.com/chiramithshivaram/SQL-Using-AI-Certificate/blob/main/SQL%20Certificate.png)}
